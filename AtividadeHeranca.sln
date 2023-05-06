@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atividade Herança em C#", "Atividade Herança em C#\Atividade Herança em C#.csproj", "{ABBEE2D2-C11E-414D-93D5-BDCBE1C512C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABBEE2D2-C11E-414D-93D5-BDCBE1C512C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBEE2D2-C11E-414D-93D5-BDCBE1C512C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBEE2D2-C11E-414D-93D5-BDCBE1C512C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBEE2D2-C11E-414D-93D5-BDCBE1C512C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCA70C2C-26B9-42E6-B213-FF7819818FF9}
+	EndGlobalSection
+EndGlobal
